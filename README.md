@@ -62,6 +62,6 @@ Currently working through offensive security certifications and documenting my j
 
 ---
 
-*"There are on sea and land such men thus fortunate—or thus disdained by destiny or by the sea."*
+*"There are on sea and land such men thus fortunate—or thus disdained by destiny or by the sea." Joseph Conrad*
 
 Last Updated: December 2025
